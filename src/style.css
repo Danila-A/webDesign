@@ -34,6 +34,8 @@
     margin: 0 auto;
     width: 60%;
     background-color: rgb(218, 218, 218);
+    height: 100%;
+    padding: 10px;
 }
 #result {
     padding-top: 20px;
