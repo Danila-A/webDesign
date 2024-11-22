@@ -20,8 +20,7 @@
     padding-left: 30px;
 }
 .menu__link:hover {
-    background-color: rgb(255, 217, 50);
-    
+    background-color: rgb(255, 217, 50);    
 }
 .title,
 .main {
@@ -34,6 +33,7 @@
 .container {
     margin: 0 auto;
     width: 60%;
+    background-color: rgb(218, 218, 218);
 }
 #result {
     padding-top: 20px;
